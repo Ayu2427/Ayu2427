@@ -1,140 +1,156 @@
-<h1 align="center">Hi 👋, I'm Ayush Singh</h1>
+<div align="center">
 
-<h3 align="center">
-Computer Science Engineering Student • Java Developer • Future Software Engineer
-</h3>
+# Hi 👋 I'm Ayush Singh
+
+### 🚀 Software Developer • Computer Science Student • Problem Solver
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+Real+World+Projects;Java+Developer;AI+%7C+Blockchain+Explorer;Full+Stack+Learner;Open+to+Software+Engineering+Internships" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Ayu2427&label=Visitors&style=for-the-badge&color=2563eb"/>
+
+</div>
+
+---
+
+# 💻 About Me
+
+```yaml
+Name: Ayush Singh
+Education: B.Tech Computer Science Engineering
+Location: India
+
+Interests:
+  - Software Development
+  - Artificial Intelligence
+  - Blockchain
+  - Web Development
+
+Currently Learning:
+  - Advanced Java
+  - Spring Boot
+  - REST APIs
+  - DSA
+
+Looking For:
+  - Software Engineering Internship
+```
+
+---
+
+# ⚡ Tech Arsenal
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Building+Real+World+Projects;Java+%7C+Python+%7C+JavaScript;Web+Developer;Learning+AI+%26+Blockchain;Always+Learning+Something+New+🚀" />
-</p>
 
----
-
-# 👨‍💻 About Me
-
-🎓 B.Tech Computer Science Engineering Student
-
-💡 Passionate about creating software that solves real-world problems.
-
-🚀 Interested in
-
-- Artificial Intelligence
-- Blockchain
-- Software Development
-- Full Stack Development
-
-🌱 Currently improving my skills in
-
-- Java
-- Data Structures & Algorithms
-- APIs
-- Backend Development
-
-🎯 Goal
-
-> Build impactful products and start my career as a Software Engineer.
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
-<p>
 <img src="https://skillicons.dev/icons?i=java,python,javascript"/>
-</p>
 
-### Web Development
-
-<p>
 <img src="https://skillicons.dev/icons?i=html,css,tailwind"/>
-</p>
 
-### Tools
-
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🌐 Portfolio Website
-
-A responsive personal portfolio showcasing my projects, skills and achievements.
-
-**Tech Used**
-
-- HTML
-- CSS
-- JavaScript
-- Tailwind CSS
-
----
-
-## 🩺 Personal Doctor (AI)
-
-An AI-powered assistant that provides basic health guidance and educational information.
-
-**Highlights**
-
-✔ Interactive Interface
-
-✔ AI Response System
-
-✔ Learning Project
+| Project | Description | Status |
+|----------|-------------|--------|
+| 🌐 Portfolio | Personal Portfolio Website | ✅ Live |
+| 🤖 Personal Doctor | AI Health Assistant | 🚀 Active |
+| 📚 More Projects | Coming Soon | ⏳ |
 
 ---
 
 # 🎯 What I'm Working On
 
-- 📚 Solving DSA Problems Daily
-- 🌐 Building Full Stack Projects
-- 🤖 Learning AI Applications
-- ⛓ Exploring Blockchain Development
-- 🚀 Preparing for Software Engineering Roles
+```text
+🟢 Solving DSA Every Day
+
+🟢 Learning Spring Boot
+
+🟢 Building AI Applications
+
+🟢 Exploring Blockchain
+
+🟢 Creating Production-Level Projects
+```
 
 ---
 
-# 📚 Currently Learning
+# 📅 2026 Goals
 
-```text
-✔ Advanced Java
-✔ Spring Boot
-✔ REST APIs
-✔ SQL
-✔ AI Fundamentals
-✔ Blockchain Basics
+```
+🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜  Master Java
+
+🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜  Spring Boot
+
+🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜  AI
+
+🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜  Blockchain
+
+🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜  Full Stack Development
+```
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayu2427&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> **Requires GitHub Actions setup**
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Ayu2427/Ayu2427/output/github-contribution-grid-snake.svg">
+
+</p>
+
+---
+
+# 💬 Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🧠 Developer Mindset
+
+```java
+while(!success){
+    learn();
+    build();
+    improve();
+    repeat();
+}
 ```
 
 ---
 
 # 🌍 Open For
 
-💼 Software Development Internship
-
-🤝 Open Source Contributions
-
-🚀 Collaboration on Innovative Projects
-
-💬 Tech Discussions
+- 💼 Software Engineering Internship
+- 🤝 Open Source Contributions
+- 🚀 Freelance Projects
+- ☕ Tech Discussions
+- 🌱 Collaboration
 
 ---
 
-# 💡 Fun Facts
-
-✨ I love turning ideas into working software.
-
-☕ Coffee + Music + Coding = Perfect Productivity
-
-🎯 I believe consistency beats motivation.
-
-🌙 Most of my coding happens late at night.
-
----
-
-# 📫 Let's Connect
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -154,8 +170,10 @@ An AI-powered assistant that provides basic health guidance and educational info
 
 ---
 
-<p align="center">
+<div align="center">
 
-### 🚀 "Code. Learn. Build. Repeat."
+### ⭐ Thanks for visiting my profile!
 
-</p>
+**"Great software is built one commit at a time."**
+
+</div>

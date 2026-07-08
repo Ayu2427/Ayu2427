@@ -1,194 +1,141 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F5FF,50:007CF0,100:001F54&text=J.A.R.V.I.S.%20PROFILE&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,20,24,30&text=Ayush%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 # ⚡ AYUSH SINGH
 
-### 「 SOFTWARE ENGINEER • AI EXPLORER • JAVA DEVELOPER 」
+### 「 SOFTWARE ENGINEER • JAVA • AI • BLOCKCHAIN 」
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Initializing+Developer...;Loading+Projects...;Loading+Skills...;Java+Developer;AI+Explorer;Future+Software+Engineer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Booting+Developer+Profile...;Building+Real+World+Projects;Java+Developer;AI+Explorer;Future+Software+Engineer;Open+to+Internships"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Ayu2427&label=PROFILE+VISITORS&style=for-the-badge&color=00CFFF"/>
+<img src="https://komarev.com/ghpvc/?username=Ayu2427&style=for-the-badge&label=PROFILE+VIEWS&color=0EA5E9"/>
 
 </div>
 
 ---
 
-# 🤖 AI PROFILE
+# ⚙ SYSTEM
 
 ```yaml
-SYSTEM:
-    ONLINE
-
-NAME:
-    Ayush Singh
-
-ROLE:
-    Computer Science Engineering Student
-
-STATUS:
-    Building Real World Projects
-
-LOCATION:
-    India 🇮🇳
-
-TARGET:
-    Software Engineering Internship
-
-POWER LEVEL:
-    ██████████████ 100%
+Name: Ayush Singh
+Role: Computer Science Engineering Student
+Status: Online
+Location: India
+Mission: Build Software That Matters
+Focus:
+  - Java
+  - AI
+  - Blockchain
+  - Web Development
 ```
 
 ---
 
-# ⚙ TECH MATRIX
+# 🧠 DEVELOPER
+
+```java
+public class Ayush {
+
+    private final String role = "Software Engineer";
+
+    String[] skills = {
+        "Java",
+        "Python",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Tailwind CSS"
+    };
+
+    String currentMission() {
+        return "Build. Learn. Repeat.";
+    }
+}
+```
+
+---
+
+# 🚀 TECH STACK
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript"/>
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind"/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
-
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,tailwind,git,github,vscode,linux&theme=dark"/>
 </p>
 
 ---
 
-# 🛰 SYSTEM MODULES
+# 🛰 MISSION BOARD
 
-| MODULE | STATUS |
-|---------|--------|
-| ☕ Java | 🟢 ONLINE |
-| 🐍 Python | 🟢 ONLINE |
-| 🌐 Web Development | 🟢 ONLINE |
-| 🤖 Artificial Intelligence | 🟡 LEARNING |
-| ⛓ Blockchain | 🟡 LEARNING |
-| 📚 Data Structures & Algorithms | 🟢 ACTIVE |
-
----
-
-# 🚀 PROJECT DATABASE
-
-| PROJECT | DESCRIPTION | STATUS |
-|---------|-------------|--------|
-| 🌐 Portfolio | Personal Portfolio Website | ✅ LIVE |
-| 🤖 Personal Doctor | AI Health Assistant | 🚀 ACTIVE |
-| ☕ Java Projects | OOP • DSA • Collections | ⚡ ACTIVE |
-| 🛰 AI Projects | Learning & Building | 🔄 DEVELOPMENT |
+| Mission | Progress |
+|---------|----------|
+| Java Mastery | ██████████ |
+| DSA | ████████░░ |
+| Spring Boot | ██████░░░░ |
+| AI | █████░░░░░ |
+| Blockchain | ████░░░░░░ |
 
 ---
 
-# 💻 DEVELOPER TERMINAL
+# 📂 PROJECT VAULT
+
+| Project | Stack | Status |
+|---------|-------|--------|
+| 🌐 Portfolio | HTML • CSS • JS | ✅ |
+| 🤖 Personal Doctor | Python | 🚀 |
+| ☕ Java Projects | Java | 🔥 |
+| 🌍 More Coming Soon | - | ⚡ |
+
+---
+
+# 💻 TERMINAL
 
 ```bash
-> boot
-
-Initializing...
-
-Loading Java...
-
-Loading Python...
-
-Loading AI...
-
-Loading Blockchain...
-
-Boot Successful ✔
-
-> whoami
-
+$ whoami
 Ayush Singh
 
-> education
+$ role
+Computer Science Engineering Student
 
-Bachelor of Technology
-Computer Science Engineering
+$ current_status
+Learning
+Building
+Improving
 
-> current_goal
-
+$ target
 Software Engineering Internship
-
-> status
-
-Building...
-Learning...
-Growing...
 ```
 
 ---
 
-# 📡 LIVE DEVELOPMENT STATUS
+# 🎯 OBJECTIVES
 
-```text
-JAVA              ██████████ 100%
-
-PYTHON            █████████░ 90%
-
-JAVASCRIPT        ████████░░ 80%
-
-SPRING BOOT       ██████░░░░ 60%
-
-AI                █████░░░░░ 50%
-
-BLOCKCHAIN        ████░░░░░░ 40%
-```
-
----
-
-# 🎯 CURRENT MISSION
-
-```text
-✔ Solve DSA Every Day
-
-✔ Build Real World Projects
-
-✔ Learn Spring Boot
-
-✔ Explore Artificial Intelligence
-
-✔ Explore Blockchain
-
-✔ Contribute to Open Source
-```
-
----
-
-# 🌌 SYSTEM DASHBOARD
-
-| ATTRIBUTE | LEVEL |
-|-----------|-------|
-| 🚀 Innovation | ██████████ |
-| 💡 Creativity | █████████░ |
-| 📚 Learning | ██████████ |
-| ☕ Coffee | ██████████ |
-| 🎯 Focus | █████████░ |
+- 🚀 Build production-ready projects
+- 💻 Solve DSA consistently
+- ☕ Master Java & Spring Boot
+- 🤖 Explore Artificial Intelligence
+- ⛓ Learn Blockchain
+- 🌍 Contribute to Open Source
 
 ---
 
 # 📈 DEVELOPMENT ACTIVITY
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayu2427&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
 
-# 💬 AI MESSAGE
+# 💬 DAILY INSPIRATION
 
 <p align="center">
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
 </p>
 
 ---
 
-# 🌍 CONNECT
+# 🌐 CONNECT
 
 <p align="center">
 
@@ -210,16 +157,8 @@ BLOCKCHAIN        ████░░░░░░ 40%
 
 <div align="center">
 
-## ⚡ SYSTEM STATUS
+## ⚡ BUILD • LEARN • INNOVATE • REPEAT
 
-```
-SYSTEM ONLINE
-
-NO ERRORS DETECTED
-
-READY TO BUILD THE FUTURE 🚀
-```
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:001F54,50:007CF0,100:00F5FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=6,12,20,24,30"/>
 
 </div>

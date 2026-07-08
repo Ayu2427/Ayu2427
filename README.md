@@ -1,74 +1,71 @@
 <h1 align="center">Hi 👋, I'm Ayush Singh</h1>
-<h3 align="center">Computer Science Engineering Student | Java Developer | AI & Blockchain Enthusiast</h3>
+
+<h3 align="center">
+Computer Science Engineering Student • Java Developer • Future Software Engineer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Java+%7C+Python+%7C+JavaScript;Web+Developer;Blockchain+Enthusiast;Learning+AI+and+Building+Real+World+Projects;Open+to+Internships+%F0%9F%9A%80" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Ayu2427">
-    <img src="https://komarev.com/ghpvc/?username=Ayu2427&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-  </a>
-  <img src="https://img.shields.io/github/followers/Ayu2427?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/github/stars/Ayu2427?style=for-the-badge&logo=github"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Building+Real+World+Projects;Java+%7C+Python+%7C+JavaScript;Web+Developer;Learning+AI+%26+Blockchain;Always+Learning+Something+New+🚀" />
 </p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
 🎓 B.Tech Computer Science Engineering Student
 
-💻 Passionate about building scalable applications and solving real-world problems.
+💡 Passionate about creating software that solves real-world problems.
 
-🌱 Currently exploring:
+🚀 Interested in
+
 - Artificial Intelligence
-- Blockchain Development
-- Full Stack Web Development
+- Blockchain
+- Software Development
+- Full Stack Development
 
-💡 I enjoy turning ideas into practical software solutions.
+🌱 Currently improving my skills in
 
-🎯 Goal: **Secure a Software Development Internship and contribute to impactful products.**
+- Java
+- Data Structures & Algorithms
+- APIs
+- Backend Development
+
+🎯 Goal
+
+> Build impactful products and start my career as a Software Engineer.
 
 ---
 
-# 🛠️ Tech Stack
+# 💻 Tech Stack
 
-### 👨‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css"/>
-</p>
-
-### ⚡ Frameworks & Libraries
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=tailwind"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript"/>
 </p>
 
-### 🧰 Tools
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind"/>
+</p>
+
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
-### 📚 Core Concepts
-
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- REST APIs
-- Problem Solving
-- Git Version Control
-
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
 
 ## 🌐 Portfolio Website
 
-🚀 A modern personal portfolio showcasing my skills, achievements, and projects.
+A responsive personal portfolio showcasing my projects, skills and achievements.
 
 **Tech Used**
+
 - HTML
 - CSS
 - JavaScript
@@ -78,68 +75,66 @@
 
 ## 🩺 Personal Doctor (AI)
 
-An AI-powered health assistant built for learning AI concepts.
+An AI-powered assistant that provides basic health guidance and educational information.
 
-### Features
+**Highlights**
 
-- Basic symptom guidance
-- User-friendly interface
-- AI-powered responses
+✔ Interactive Interface
 
-**Tech Used**
-- Python
-- AI Concepts
+✔ AI Response System
+
+✔ Learning Project
 
 ---
 
-🚧 More exciting projects are coming soon...
+# 🎯 What I'm Working On
+
+- 📚 Solving DSA Problems Daily
+- 🌐 Building Full Stack Projects
+- 🤖 Learning AI Applications
+- ⛓ Exploring Blockchain Development
+- 🚀 Preparing for Software Engineering Roles
 
 ---
 
-# 📈 GitHub Analytics
+# 📚 Currently Learning
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayu2427&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayu2427&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayu2427&theme=tokyonight"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ayu2427&theme=algolia&margin-w=10&margin-h=10"/>
-</p>
+```text
+✔ Advanced Java
+✔ Spring Boot
+✔ REST APIs
+✔ SQL
+✔ AI Fundamentals
+✔ Blockchain Basics
+```
 
 ---
 
-# 📊 Contribution Graph
+# 🌍 Open For
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayu2427&theme=github-compact"/>
-</p>
+💼 Software Development Internship
 
----
+🤝 Open Source Contributions
 
-# 💼 What I'm Looking For
+🚀 Collaboration on Innovative Projects
 
-✅ Software Development Internship
-
-✅ Java Developer Roles
-
-✅ Web Development Opportunities
-
-✅ Open Source Contributions
-
-✅ AI & Blockchain Projects
+💬 Tech Discussions
 
 ---
 
-# 🤝 Let's Connect
+# 💡 Fun Facts
+
+✨ I love turning ideas into working software.
+
+☕ Coffee + Music + Coding = Perfect Productivity
+
+🎯 I believe consistency beats motivation.
+
+🌙 Most of my coding happens late at night.
+
+---
+
+# 📫 Let's Connect
 
 <p align="center">
 
@@ -159,12 +154,8 @@ An AI-powered health assistant built for learning AI concepts.
 
 ---
 
-# 💭 Quote
-
-> *"The best way to predict the future is to build it."* 🚀
-
----
-
 <p align="center">
-⭐ If you like my work, consider giving a star to my repositories!
+
+### 🚀 "Code. Learn. Build. Repeat."
+
 </p>

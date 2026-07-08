@@ -1,15 +1,14 @@
-````markdown
 <div align="center">
 
-# 👋 Hi, I'm Ayush Singh
+# 👋 Hey, I'm Ayush Singh
 
-### 💻 Computer Science Engineering Student | Java Developer | AI & Blockchain Enthusiast
+### Software Engineer in Progress 🚀
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Building+Real+World+Projects;Java+Developer;Future+Software+Engineer;AI+%7C+Blockchain+Explorer;Always+Learning+Something+New+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Java+Developer;AI+%7C+Blockchain+Enthusiast;Building+Projects+Every+Day;Open+to+Software+Engineering+Internships" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Ayu2427&style=for-the-badge&label=Profile+Views&color=2563EB"/>
+<img src="https://komarev.com/ghpvc/?username=Ayu2427&style=for-the-badge&label=PROFILE+VIEWS&color=0E75B6"/>
 
 </div>
 
@@ -26,36 +25,32 @@ Education:
 Location:
   India 🇮🇳
 
-Interests:
-  • Software Engineering
-  • Artificial Intelligence
-  • Blockchain
-  • Full Stack Development
+Currently:
+  Building Real World Projects
 
-Currently Learning:
-  • Java
-  • Spring Boot
-  • REST APIs
-  • Data Structures & Algorithms
+Learning:
+  Spring Boot
+  AI
+  Blockchain
+  System Design
 
-Career Goal:
-  Become a Software Engineer who builds products
-  used by millions.
+Goal:
+  Software Engineer
 ```
 
 ---
 
-# 🚀 Tech Stack
+# ⚡ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,tailwind,git,github,vscode&perline=5"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,tailwind,git,github,vscode,linux&perline=5"/>
 
 </p>
 
 ---
 
-# 📂 Featured Projects
+# 🚀 Featured Projects
 
 <table>
 
@@ -63,25 +58,59 @@ Career Goal:
 
 <td width="50%">
 
-### 🌐 Portfolio Website
+## 🌐 Portfolio Website
 
-Personal Portfolio showcasing my projects, skills and achievements.
+Personal Portfolio
 
-**Tech**
+✅ Responsive
 
-HTML • CSS • JavaScript • Tailwind CSS
+✅ Modern UI
+
+✅ Mobile Friendly
 
 </td>
 
 <td width="50%">
 
-### 🤖 Personal Doctor
+## 🤖 Personal Doctor
 
-AI-powered assistant for basic health guidance.
+AI Health Assistant
 
-**Tech**
+🧠 Python
 
-Python • AI Concepts
+🤖 AI
+
+💬 Smart Responses
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 📚 Java Projects
+
+OOP
+
+Collections
+
+File Handling
+
+Swing
+
+</td>
+
+<td width="50%">
+
+## 🚧 Coming Soon
+
+Spring Boot API
+
+Blockchain App
+
+AI Chatbot
 
 </td>
 
@@ -91,106 +120,99 @@ Python • AI Concepts
 
 ---
 
-# 🎯 Current Mission
-
-```text
-🟢 Building Real-World Projects
-
-🟢 Solving DSA Daily
-
-🟢 Learning Spring Boot
-
-🟢 Exploring AI
-
-🟢 Exploring Blockchain
-
-🟢 Preparing for Software Engineering Interviews
-```
-
----
-
-# 📅 2026 Roadmap
-
-| Goal | Progress |
-|-------|----------|
-| ☕ Master Java | ████████░░ 80% |
-| 🌐 Full Stack Development | ██████░░░░ 60% |
-| 📚 Data Structures & Algorithms | ███████░░░ 70% |
-| 🤖 Artificial Intelligence | █████░░░░░ 50% |
-| ⛓ Blockchain | ████░░░░░░ 40% |
-
----
-
-# 🖥️ Developer Terminal
+# 💻 Developer Terminal
 
 ```bash
 > whoami
 
 Ayush Singh
 
-> skills
+> education
+
+B.Tech Computer Science
+
+> languages
 
 Java
 Python
 JavaScript
-Git
+
+> hobbies
+
+Building Projects
+Learning
 Problem Solving
-REST APIs
 
-> current_status
-
-Building.
-Learning.
-Growing.
-
-> next_goal
+> current_goal
 
 Software Engineering Internship 🚀
 ```
 
 ---
 
-# 🌱 Currently Exploring
+# 📅 Current Focus
 
-- ⚡ Spring Boot
-- ☁️ Backend Development
-- 🤖 AI Applications
-- 🌍 Open Source
-- 🧩 System Design Basics
+```
+█████████░░░ Java
 
----
+███████░░░░ Spring Boot
 
-# 📚 Daily Routine
+██████░░░░░ DSA
 
-```text
-☕ Coffee
-      ↓
-💻 Code
-      ↓
-📚 Learn
-      ↓
-🚀 Build
-      ↓
-🔁 Repeat
+█████░░░░░░ AI
+
+████░░░░░░░ Blockchain
 ```
 
 ---
 
-# 💼 Looking For
+# 📈 GitHub Activity
 
-✅ Software Engineering Internship
+<p align="center">
 
-✅ Open Source Collaboration
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayu2427&theme=tokyo-night&hide_border=true"/>
 
-✅ Java Development Opportunities
-
-✅ AI & Full Stack Projects
+</p>
 
 ---
 
-# 💡 Philosophy
+# 💬 Quote of the Day
 
-> **"Every expert was once a beginner who never stopped building."**
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- ☕ Advanced Java
+
+- 🌐 Spring Boot
+
+- 🗄 SQL
+
+- 🤖 Artificial Intelligence
+
+- ⛓ Blockchain
+
+- 📦 REST APIs
+
+---
+
+# 🎯 Goals for 2026
+
+✅ 300+ DSA Problems
+
+✅ Spring Boot Mastery
+
+✅ 10 Full Stack Projects
+
+✅ Software Engineering Internship
+
+✅ Open Source Contribution
 
 ---
 
@@ -216,9 +238,8 @@ Software Engineering Internship 🚀
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⚡ "Code. Learn. Build. Repeat."
 
-*"First, solve the problem. Then, write the code."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
 
 </div>
-````

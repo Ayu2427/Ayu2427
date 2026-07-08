@@ -1,164 +1,101 @@
-<div align="center">
+<!-- Animated header banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there%2C%20I'm%20Ayu%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=twinkling" />
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,20,24,30&text=Ayush%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://github.com/Ayu2427">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=E879F9&center=true&vCenter=true&width=560&lines=Curious+builder+%F0%9F%9A%80;Learning+in+public+%E2%9C%A8;Solving+LeetCode+daily+%F0%9F%A7%A9;Web+dev+%7C+HTML+%7C+CSS+%7C+JS" alt="Typing SVG" />
+  </a>
+</p>
 
-# ⚡ AYUSH SINGH
-
-### 「 SOFTWARE ENGINEER • JAVA • AI • BLOCKCHAIN 」
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Booting+Developer+Profile...;Building+Real+World+Projects;Java+Developer;AI+Explorer;Future+Software+Engineer;Open+to+Internships"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Ayu2427&style=for-the-badge&label=PROFILE+VIEWS&color=0EA5E9"/>
-
-</div>
+<!-- Social / profile badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ayu2427&label=Profile%20views&color=e879f9&style=for-the-badge" alt="views"/>
+  <a href="https://github.com/Ayu2427?tab=followers">
+    <img src="https://img.shields.io/github/followers/Ayu2427?label=Followers&style=for-the-badge&color=22d3ee&labelColor=0d1117" />
+  </a>
+  <img src="https://img.shields.io/github/stars/Ayu2427?label=Stars&style=for-the-badge&color=a78bfa&labelColor=0d1117" />
+</p>
 
 ---
 
-# ⚙ SYSTEM
+### 🧠 About Me
 
-```yaml
-Name: Ayush Singh
-Role: Computer Science Engineering Student
-Status: Online
-Location: India
-Mission: Build Software That Matters
-Focus:
-  - Java
-  - AI
-  - Blockchain
-  - Web Development
+```js
+const ayu = {
+  role:      "Developer in the making",
+  learning:  ["JavaScript", "Tailwind CSS", "DSA"],
+  building:  ["my-portfolio", "Personal-doctor", "LeetCode-Solutions"],
+  askMeAbout:["web dev", "problem solving", "clean UI"],
+  funFact:   "I debug better with chai ☕",
+};
 ```
 
 ---
 
-# 🧠 DEVELOPER
+### 🛠️ Tech Stack
 
-```java
-public class Ayush {
-
-    private final String role = "Software Engineer";
-
-    String[] skills = {
-        "Java",
-        "Python",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Tailwind CSS"
-    };
-
-    String currentMission() {
-        return "Build. Learn. Repeat.";
-    }
-}
-```
-
----
-
-# 🚀 TECH STACK
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,tailwind,git,github,vscode,linux&theme=dark"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,python,java,cpp,git,github,vscode&perline=6" />
 </p>
 
 ---
 
-# 🛰 MISSION BOARD
-
-| Mission | Progress |
-|---------|----------|
-| Java Mastery | ██████████ |
-| DSA | ████████░░ |
-| Spring Boot | ██████░░░░ |
-| AI | █████░░░░░ |
-| Blockchain | ████░░░░░░ |
-
----
-
-# 📂 PROJECT VAULT
-
-| Project | Stack | Status |
-|---------|-------|--------|
-| 🌐 Portfolio | HTML • CSS • JS | ✅ |
-| 🤖 Personal Doctor | Python | 🚀 |
-| ☕ Java Projects | Java | 🔥 |
-| 🌍 More Coming Soon | - | ⚡ |
-
----
-
-# 💻 TERMINAL
-
-```bash
-$ whoami
-Ayush Singh
-
-$ role
-Computer Science Engineering Student
-
-$ current_status
-Learning
-Building
-Improving
-
-$ target
-Software Engineering Internship
-```
-
----
-
-# 🎯 OBJECTIVES
-
-- 🚀 Build production-ready projects
-- 💻 Solve DSA consistently
-- ☕ Master Java & Spring Boot
-- 🤖 Explore Artificial Intelligence
-- ⛓ Learn Blockchain
-- 🌍 Contribute to Open Source
-
----
-
-# 📈 DEVELOPMENT ACTIVITY
+### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayu2427&theme=tokyo-night&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayu2427&show_icons=true&theme=tokyonight&hide_border=true&title_color=e879f9&icon_color=22d3ee" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayu2427&layout=compact&theme=tokyonight&hide_border=true&title_color=e879f9" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ayu2427&theme=tokyonight&hide_border=true&ring=e879f9&fire=e879f9&currStreakLabel=22d3ee" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayu2427&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
 </p>
 
 ---
 
-# 💬 DAILY INSPIRATION
+### 🐍 Watch my contributions eat themselves
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img src="https://raw.githubusercontent.com/Ayu2427/Ayu2427/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-# 🌐 CONNECT
+### 📌 Featured Projects
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/ayush-singh-7872a5236">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:Ayu.rajput0123@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Ayu2427">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
+  <a href="https://github.com/Ayu2427/my-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayu2427&repo=my-portfolio&theme=tokyonight&hide_border=true&title_color=e879f9&icon_color=22d3ee" />
+  </a>
+  <a href="https://github.com/Ayu2427/Personal-doctor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayu2427&repo=Personal-doctor&theme=tokyonight&hide_border=true&title_color=e879f9&icon_color=22d3ee" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Ayu2427/LeetCode-Solutions">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayu2427&repo=LeetCode-Solutions&theme=tokyonight&hide_border=true&title_color=e879f9&icon_color=22d3ee" />
+  </a>
 </p>
 
 ---
 
-<div align="center">
+### 🌐 Connect with me
 
-## ⚡ BUILD • LEARN • INNOVATE • REPEAT
+<p align="center">
+  <a href="https://github.com/Ayu2427"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <!-- Replace # with your real links -->
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=6,12,20,24,30"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+</p>

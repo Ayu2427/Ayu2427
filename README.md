@@ -1,260 +1,194 @@
-# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Ayush+Singh;Software+Engineer+in+Progress;Java+Developer;AI+%7C+Blockchain+Explorer" />
+# <div align="center">⚡ AYUSH OS // SOFTWARE ENGINEER DASHBOARD ⚡</div>
 
-```text
-█████████████████████████████████████████████████████████████
+<div align="center">
 
-                    AYUSH OS v2.0
+### `SYSTEM STATUS : ONLINE 🟢`
 
-           Software Engineering Dashboard
+**Computer Science Engineering Student • Java Developer • AI Explorer**
 
-█████████████████████████████████████████████████████████████
-```
+</div>
 
 ---
 
-# ⚡ BOOT SEQUENCE
+<table>
+<tr>
 
-```bash
-> boot
+<td width="50%">
 
-Initializing Developer...
-
-Loading Java.............. ███████████████ 100%
-
-Loading Python............ █████████████ 95%
-
-Loading JavaScript........ ███████████ 85%
-
-Loading AI................ █████████ 70%
-
-Loading Blockchain........ ██████ 50%
-
-Loading Problem Solving... █████████████ 90%
-
-System Status............. ONLINE ✅
-```
-
----
-
-# 🛰 SYSTEM INFORMATION
+## 🧑‍💻 Profile
 
 ```yaml
-Developer:
-  Name: Ayush Singh
+Name: Ayush Singh
 
-Role:
-  Software Engineer
+Role: Software Engineer
 
 Education:
-  B.Tech Computer Science Engineering
+B.Tech CSE
 
 Location:
-  India 🇮🇳
+India
 
-Current Status:
-  Learning • Building • Growing
-
-Open For:
-  Software Engineering Internship
+Status:
+Open to Internships
 ```
 
----
+</td>
 
-# 💻 DEVELOPER CONFIGURATION
+<td width="50%">
 
-```java
-public class Ayush {
-
-    String role = "Software Engineer";
-
-    String[] languages = {
-        "Java",
-        "Python",
-        "JavaScript"
-    };
-
-    String[] technologies = {
-        "HTML",
-        "CSS",
-        "Tailwind CSS",
-        "Git",
-        "GitHub"
-    };
-
-    String mission =
-        "Build software that solves real-world problems.";
-
-}
-```
-
----
-
-# 🎯 CURRENT MISSION
+## 🚀 Current Focus
 
 ```text
-✓ Crack Software Engineering Internship
+✓ Java
 
-✓ Build Production Level Projects
+✓ Spring Boot
 
-✓ Master Java
+✓ DSA
 
-✓ Learn Spring Boot
+✓ AI
 
-✓ Explore Artificial Intelligence
-
-✓ Learn Blockchain
-
-✓ Contribute to Open Source
+✓ Blockchain
 ```
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 📊 TECH MATRIX
+## ⚡ Tech Stack
 
-```text
-Java                     ██████████████ 100%
+<div align="center">
 
-Python                   ████████████ 90%
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,tailwind,git,github,vscode&perline=5"/>
 
-JavaScript               ██████████ 80%
-
-HTML/CSS                 ███████████ 85%
-
-Git                      ██████████ 80%
-
-Problem Solving          ███████████ 85%
-
-Artificial Intelligence  ███████ 60%
-
-Blockchain               ██████ 50%
-```
+</div>
 
 ---
 
-# 📂 PROJECT VAULT
+## 📂 Project Vault
 
-```text
-📁 Projects
+<details>
+<summary><b>🌐 Portfolio Website</b></summary>
 
-├── 🌐 Portfolio Website
-│     ├── Responsive UI
-│     ├── Modern Design
-│     └── Status : COMPLETE ✅
-│
-├── 🤖 Personal Doctor
-│     ├── AI Based Assistant
-│     ├── Python
-│     └── Status : ACTIVE 🚀
-│
-├── ☕ Java Projects
-│     ├── OOP
-│     ├── Collections
-│     └── Status : ACTIVE ⚡
-│
-└── 🚀 Upcoming
-      ├── Spring Boot API
-      ├── Blockchain Project
-      └── Status : BUILDING
-```
+* Responsive Design
+* Modern UI
+* Personal Branding
+* HTML, CSS, JavaScript
+
+</details>
+
+<details>
+<summary><b>🤖 Personal Doctor AI</b></summary>
+
+* AI-based Assistant
+* Python
+* Health Guidance
+* Learning Project
+
+</details>
+
+<details>
+<summary><b>☕ Java Projects</b></summary>
+
+* OOP
+* Collections
+* File Handling
+* Mini Applications
+
+</details>
 
 ---
 
-# 🖥 TERMINAL
+## 📊 Skill Matrix
+
+| Technology |    Level   |
+| ---------- | :--------: |
+| Java       | ██████████ |
+| Python     |  █████████ |
+| JavaScript |  ████████  |
+| HTML/CSS   |  █████████ |
+| Git        |  ████████  |
+| AI         |   ██████   |
+| Blockchain |    █████   |
+
+---
+
+## 🖥 Developer Console
 
 ```bash
 > whoami
 
 Ayush Singh
 
-> role
+> education
 
-Computer Science Engineering Student
+Bachelor of Technology
 
 > current_project
 
 Personal Doctor AI
 
-> currently_learning
+> learning
 
-Java
 Spring Boot
 AI
 Blockchain
 
-> favourite_editor
+> status
 
-VS Code
+Building...
+Learning...
+Growing...
 
-> target
+> next_goal
 
 Software Engineering Internship
-
-> exit
-
-Good Luck 🚀
 ```
 
 ---
 
-# 📅 ROADMAP
+## 🎯 Mission Board
+
+* 🚀 Build Production-Level Projects
+* 📚 Solve DSA Daily
+* ☕ Master Java
+* 🌱 Learn Spring Boot
+* 🤖 Build AI Applications
+* 🌍 Contribute to Open Source
+
+---
+
+## 📅 Progress Tracker
 
 ```text
-Java                     ██████████
+Java              ██████████
 
-Spring Boot              ███████
+DSA               █████████
 
-DSA                      █████████
+Spring Boot       ███████
 
-Full Stack               ███████
+Backend           ███████
 
-Artificial Intelligence  █████
+AI                █████
 
-Blockchain               ████
+Blockchain        ████
 ```
 
 ---
 
-# 🌱 DAILY ROUTINE
-
-```text
-Wake Up
-
-↓
-
-Coffee ☕
-
-↓
-
-Learn 📚
-
-↓
-
-Code 💻
-
-↓
-
-Debug 🐞
-
-↓
-
-Commit 🚀
-
-↓
-
-Repeat 🔁
-```
-
----
-
-# 📈 DEVELOPMENT ACTIVITY
+## 📈 Contribution Activity
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayu2427&theme=github-dark&hide_border=true"/>
+
 </p>
 
 ---
 
-# 💡 DEVELOPER PHILOSOPHY
+## 🏆 Developer Philosophy
 
 ```java
 while(true){
@@ -262,6 +196,8 @@ while(true){
     Learn();
 
     Build();
+
+    Fail();
 
     Improve();
 
@@ -272,22 +208,18 @@ while(true){
 
 ---
 
-# 🌍 CONNECT
+## 🌐 Connect
 
-```text
-GitHub      : github.com/Ayu2427
+<div align="center">
 
-LinkedIn    : linkedin.com/in/ayush-singh-7872a5236
+<a href="https://github.com/Ayu2427">GitHub</a> • <a href="https://www.linkedin.com/in/ayush-singh-7872a5236/">LinkedIn</a> • <a href="mailto:Ayu.rajput0123@gmail.com">Email</a>
 
-Email       : Ayu.rajput0123@gmail.com
-```
+</div>
 
 ---
 
-```text
-█████████████████████████████████████████████████████████████
+<div align="center">
 
-          BUILD • LEARN • CREATE • INSPIRE
+### ⚡ *"Turning ideas into software, one commit at a time."*
 
-█████████████████████████████████████████████████████████████
-```
+</div>

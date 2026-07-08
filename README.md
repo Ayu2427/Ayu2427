@@ -1,70 +1,49 @@
+# <div align="center">👨‍💻 Ayush Singh</div>
+
 <div align="center">
 
-# Ayush Singh
+### Software Engineer in Progress • Java Developer • AI Explorer
 
-### Software Engineer • Java Developer • AI Explorer
-
-Building software that solves real-world problems.
-
-Open to Software Engineering Internships 🚀
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile;Building+Real+World+Projects;Java+Developer;AI+%7C+Blockchain+Explorer;Always+Learning+Something+New"/>
 
 </div>
 
 ---
 
-## ⚡ Navigation
+# ⚡ Quick Navigation
 
-- [About](#-about)
-- [Tech Stack](#-tech-stack)
-- [Projects](#-projects)
-- [Dashboard](#-dashboard)
-- [Learning](#-currently-learning)
-- [GitHub Activity](#-github-activity)
-- [Achievements](#-achievements)
-- [Contact](#-contact)
+* [🧑 About Me](#-about-me)
+* [🛠 Tech Stack](#-tech-stack)
+* [🚀 Projects](#-project-vault)
+* [📊 Skill Dashboard](#-skill-dashboard)
+* [🎯 Current Goals](#-current-goals)
+* [📈 GitHub Activity](#-github-activity)
+* [🏅 Certifications](#-certifications)
+* [📬 Contact](#-connect-with-me)
 
 ---
 
-# 👨‍💻 About
-
-<table>
-<tr>
-
-<td width="65%">
-
-I'm a Computer Science Engineering student passionate about building scalable applications and solving real-world problems.
-
-### Current Focus
-
-- ☕ Java
-- 🌱 Spring Boot
-- 🤖 Artificial Intelligence
-- 🌐 Backend Development
-- 📚 Data Structures & Algorithms
-
-</td>
-
-<td width="35%">
+# 🧑 About Me
 
 <details open>
-<summary><b>Developer Card</b></summary>
 
-Role: Software Engineer
+<summary><b>👋 Click to View</b></summary>
 
-Status: 🟢 Online
+```java
+public class Ayush {
 
-Location: India
+    String role = "Computer Science Engineering Student";
 
-Goal: SDE Internship
+    String passion = "Building Real World Applications";
 
-Learning: Spring Boot
+    String currentFocus = "Java + Spring Boot + AI";
+
+    String goal = "Software Engineer";
+
+}
+```
 
 </details>
-
-</td>
-
-</tr>
-</table>
 
 ---
 
@@ -72,116 +51,160 @@ Learning: Spring Boot
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,tailwind,git,github,vscode,mysql&perline=5"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,tailwind,git,github,vscode,linux&perline=5"/>
 
 </div>
 
 ---
 
-# 📂 Projects
+# 🚀 Project Vault
 
 <details open>
+
 <summary><b>🌐 Portfolio Website</b></summary>
 
-Responsive portfolio showcasing projects and skills.
+### Features
 
-**Tech:** HTML • CSS • JavaScript
+* Responsive Design
+* Modern UI
+* Personal Branding
+
+**Tech**
+
+HTML • CSS • JavaScript
 
 </details>
 
 <details>
+
 <summary><b>🤖 Personal Doctor AI</b></summary>
 
-AI assistant for basic health guidance.
+### Features
 
-**Tech:** Python • AI
+* AI Based Assistant
+* Health Guidance
+* Smart Responses
+
+**Tech**
+
+Python • AI
 
 </details>
 
 <details>
+
 <summary><b>☕ Java Projects</b></summary>
 
-- OOP
-- Collections
-- JDBC
-- File Handling
-- Exception Handling
+### Topics Covered
+
+* OOP
+* Collections
+* Exception Handling
+* File Handling
 
 </details>
 
 ---
 
-# 📊 Dashboard
+# 📊 Skill Dashboard
 
-| Category | Progress |
-|:---------|:--------:|
-| Java | ██████████ |
-| Backend | ████████ |
-| Python | ████████ |
-| DSA | ███████ |
-| AI | ██████ |
-| Blockchain | █████ |
+| Skill              |  Progress  |
+| :----------------- | :--------: |
+| ☕ Java             | ██████████ |
+| 🐍 Python          |  █████████ |
+| 🌐 Web Development |  █████████ |
+| 📚 DSA             |  ████████  |
+| 🤖 AI              |   ██████   |
+| ⛓ Blockchain       |    █████   |
 
 ---
 
 # 💻 Developer Console
 
+<details>
+
+<summary><b>Open Terminal</b></summary>
+
 ```bash
-$ whoami
+> whoami
+
 Ayush Singh
 
-$ current_project
+> education
+
+B.Tech Computer Science Engineering
+
+> currently_learning
+
+Spring Boot
+Artificial Intelligence
+Blockchain
+
+> current_project
+
 Personal Doctor AI
 
-$ learning
-Spring Boot
-Backend Development
+> target
 
-$ target
 Software Engineering Internship
 ```
-
----
-
-# 📚 Currently Learning
-
-<details>
-<summary><b>Learning Roadmap</b></summary>
-
-Java
-
-↓
-
-DSA
-
-↓
-
-Spring Boot
-
-↓
-
-REST APIs
-
-↓
-
-System Design
-
-↓
-
-Software Engineer
 
 </details>
 
 ---
 
-# 🎯 Goals
+# 🎯 Current Goals
 
-- ✅ Master Java
-- 🚧 Spring Boot
-- 🚧 Build 10 Projects
-- 🚧 Solve 500 DSA Problems
-- 🚧 Open Source
-- 🚧 Internship
+* ✅ Master Java
+* 🚧 Learn Spring Boot
+* 🚧 Build Production-Level Projects
+* 🚧 Solve 500+ DSA Problems
+* 🚧 Contribute to Open Source
+* 🚧 Secure a Software Engineering Internship
+
+---
+
+# 🗺 Learning Roadmap
+
+<details>
+
+<summary><b>View Roadmap</b></summary>
+
+```text
+Java
+   │
+   ▼
+Data Structures
+   │
+   ▼
+Spring Boot
+   │
+   ▼
+Backend APIs
+   │
+   ▼
+System Design
+   │
+   ▼
+Software Engineer
+```
+
+</details>
+
+---
+
+# 🏅 Certifications
+
+<details>
+
+<summary><b>View Certifications</b></summary>
+
+* IBM Certification
+* Oracle Java *(Add when earned)*
+* HackerRank *(Add when earned)*
+* Google *(Add when earned)*
+
+</details>
 
 ---
 
@@ -195,27 +218,36 @@ Software Engineer
 
 ---
 
-# 🏅 Achievements
+# 📌 Fun Facts
 
 <details>
-<summary><b>View</b></summary>
 
-- 💻 Java Developer
-- 🤖 AI Learner
-- 🚀 Project Builder
-- 📚 Continuous Learner
+<summary><b>Click to Reveal</b></summary>
+
+* ☕ Coffee makes debugging easier.
+* 💡 I enjoy solving real-world problems through code.
+* 🚀 I believe consistency beats motivation.
+* 📚 Every day is a chance to learn something new.
 
 </details>
 
 ---
 
-# 📬 Contact
+# 📬 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/Ayu2427">GitHub</a> •
-<a href="https://www.linkedin.com/in/ayush-singh-7872a5236/">LinkedIn</a> •
-<a href="mailto:Ayu.rajput0123@gmail.com">Email</a>
+<a href="https://github.com/Ayu2427">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ayush-singh-7872a5236/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:Ayu.rajput0123@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -223,8 +255,8 @@ Software Engineer
 
 <div align="center">
 
-### ⭐ Thanks for visiting!
+### ⭐ Thanks for visiting my profile!
 
-Building today for a better tomorrow.
+*"Code with purpose. Learn continuously. Build fearlessly."*
 
 </div>

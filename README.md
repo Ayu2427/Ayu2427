@@ -1,152 +1,196 @@
+````markdown
 <div align="center">
 
-# Hi 👋 I'm Ayush Singh
+# 👋 Hi, I'm Ayush Singh
 
-### 🚀 Software Developer • Computer Science Student • Problem Solver
+### 💻 Computer Science Engineering Student | Java Developer | AI & Blockchain Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+Real+World+Projects;Java+Developer;AI+%7C+Blockchain+Explorer;Full+Stack+Learner;Open+to+Software+Engineering+Internships" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Building+Real+World+Projects;Java+Developer;Future+Software+Engineer;AI+%7C+Blockchain+Explorer;Always+Learning+Something+New+🚀"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Ayu2427&label=Visitors&style=for-the-badge&color=2563eb"/>
+<img src="https://komarev.com/ghpvc/?username=Ayu2427&style=for-the-badge&label=Profile+Views&color=2563EB"/>
 
 </div>
 
 ---
 
-# 💻 About Me
+# 👨‍💻 About Me
 
 ```yaml
 Name: Ayush Singh
-Education: B.Tech Computer Science Engineering
-Location: India
+
+Education:
+  B.Tech Computer Science Engineering
+
+Location:
+  India 🇮🇳
 
 Interests:
-  - Software Development
-  - Artificial Intelligence
-  - Blockchain
-  - Web Development
+  • Software Engineering
+  • Artificial Intelligence
+  • Blockchain
+  • Full Stack Development
 
 Currently Learning:
-  - Advanced Java
-  - Spring Boot
-  - REST APIs
-  - DSA
+  • Java
+  • Spring Boot
+  • REST APIs
+  • Data Structures & Algorithms
 
-Looking For:
-  - Software Engineering Internship
+Career Goal:
+  Become a Software Engineer who builds products
+  used by millions.
 ```
 
 ---
 
-# ⚡ Tech Arsenal
+# 🚀 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript"/>
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind"/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,tailwind,git,github,vscode&perline=5"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 📂 Featured Projects
 
-| Project | Description | Status |
-|----------|-------------|--------|
-| 🌐 Portfolio | Personal Portfolio Website | ✅ Live |
-| 🤖 Personal Doctor | AI Health Assistant | 🚀 Active |
-| 📚 More Projects | Coming Soon | ⏳ |
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🌐 Portfolio Website
+
+Personal Portfolio showcasing my projects, skills and achievements.
+
+**Tech**
+
+HTML • CSS • JavaScript • Tailwind CSS
+
+</td>
+
+<td width="50%">
+
+### 🤖 Personal Doctor
+
+AI-powered assistant for basic health guidance.
+
+**Tech**
+
+Python • AI Concepts
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 🎯 What I'm Working On
+# 🎯 Current Mission
 
 ```text
-🟢 Solving DSA Every Day
+🟢 Building Real-World Projects
+
+🟢 Solving DSA Daily
 
 🟢 Learning Spring Boot
 
-🟢 Building AI Applications
+🟢 Exploring AI
 
 🟢 Exploring Blockchain
 
-🟢 Creating Production-Level Projects
+🟢 Preparing for Software Engineering Interviews
 ```
 
 ---
 
-# 📅 2026 Goals
+# 📅 2026 Roadmap
 
-```
-🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜  Master Java
-
-🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜  Spring Boot
-
-🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜  AI
-
-🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜  Blockchain
-
-🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜  Full Stack Development
-```
+| Goal | Progress |
+|-------|----------|
+| ☕ Master Java | ████████░░ 80% |
+| 🌐 Full Stack Development | ██████░░░░ 60% |
+| 📚 Data Structures & Algorithms | ███████░░░ 70% |
+| 🤖 Artificial Intelligence | █████░░░░░ 50% |
+| ⛓ Blockchain | ████░░░░░░ 40% |
 
 ---
 
-# 📈 GitHub Activity
+# 🖥️ Developer Terminal
 
-<p align="center">
+```bash
+> whoami
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayu2427&theme=github-dark&hide_border=true"/>
+Ayush Singh
 
-</p>
+> skills
 
----
+Java
+Python
+JavaScript
+Git
+Problem Solving
+REST APIs
 
-# 🐍 Contribution Snake
+> current_status
 
-> **Requires GitHub Actions setup**
+Building.
+Learning.
+Growing.
 
-<p align="center">
+> next_goal
 
-<img src="https://raw.githubusercontent.com/Ayu2427/Ayu2427/output/github-contribution-grid-snake.svg">
-
-</p>
-
----
-
-# 💬 Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🧠 Developer Mindset
-
-```java
-while(!success){
-    learn();
-    build();
-    improve();
-    repeat();
-}
+Software Engineering Internship 🚀
 ```
 
 ---
 
-# 🌍 Open For
+# 🌱 Currently Exploring
 
-- 💼 Software Engineering Internship
-- 🤝 Open Source Contributions
-- 🚀 Freelance Projects
-- ☕ Tech Discussions
-- 🌱 Collaboration
+- ⚡ Spring Boot
+- ☁️ Backend Development
+- 🤖 AI Applications
+- 🌍 Open Source
+- 🧩 System Design Basics
+
+---
+
+# 📚 Daily Routine
+
+```text
+☕ Coffee
+      ↓
+💻 Code
+      ↓
+📚 Learn
+      ↓
+🚀 Build
+      ↓
+🔁 Repeat
+```
+
+---
+
+# 💼 Looking For
+
+✅ Software Engineering Internship
+
+✅ Open Source Collaboration
+
+✅ Java Development Opportunities
+
+✅ AI & Full Stack Projects
+
+---
+
+# 💡 Philosophy
+
+> **"Every expert was once a beginner who never stopped building."**
 
 ---
 
@@ -174,6 +218,7 @@ while(!success){
 
 ### ⭐ Thanks for visiting my profile!
 
-**"Great software is built one commit at a time."**
+*"First, solve the problem. Then, write the code."*
 
 </div>
+````

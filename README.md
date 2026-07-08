@@ -1,172 +1,174 @@
 <div align="center">
 
-# 👋 Hey, I'm Ayush Singh
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F5FF,50:007CF0,100:001F54&text=J.A.R.V.I.S.%20PROFILE&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-### Software Engineer in Progress 🚀
+# ⚡ AYUSH SINGH
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Java+Developer;AI+%7C+Blockchain+Enthusiast;Building+Projects+Every+Day;Open+to+Software+Engineering+Internships" />
+### 「 SOFTWARE ENGINEER • AI EXPLORER • JAVA DEVELOPER 」
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Initializing+Developer...;Loading+Projects...;Loading+Skills...;Java+Developer;AI+Explorer;Future+Software+Engineer"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Ayu2427&style=for-the-badge&label=PROFILE+VIEWS&color=0E75B6"/>
+<img src="https://komarev.com/ghpvc/?username=Ayu2427&label=PROFILE+VISITORS&style=for-the-badge&color=00CFFF"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 🤖 AI PROFILE
 
 ```yaml
-Name: Ayush Singh
+SYSTEM:
+    ONLINE
 
-Education:
-  B.Tech Computer Science Engineering
+NAME:
+    Ayush Singh
 
-Location:
-  India 🇮🇳
+ROLE:
+    Computer Science Engineering Student
 
-Currently:
-  Building Real World Projects
+STATUS:
+    Building Real World Projects
 
-Learning:
-  Spring Boot
-  AI
-  Blockchain
-  System Design
+LOCATION:
+    India 🇮🇳
 
-Goal:
-  Software Engineer
+TARGET:
+    Software Engineering Internship
+
+POWER LEVEL:
+    ██████████████ 100%
 ```
 
 ---
 
-# ⚡ Tech Stack
+# ⚙ TECH MATRIX
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,tailwind,git,github,vscode,linux&perline=5"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind"/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🛰 SYSTEM MODULES
 
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🌐 Portfolio Website
-
-Personal Portfolio
-
-✅ Responsive
-
-✅ Modern UI
-
-✅ Mobile Friendly
-
-</td>
-
-<td width="50%">
-
-## 🤖 Personal Doctor
-
-AI Health Assistant
-
-🧠 Python
-
-🤖 AI
-
-💬 Smart Responses
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 📚 Java Projects
-
-OOP
-
-Collections
-
-File Handling
-
-Swing
-
-</td>
-
-<td width="50%">
-
-## 🚧 Coming Soon
-
-Spring Boot API
-
-Blockchain App
-
-AI Chatbot
-
-</td>
-
-</tr>
-
-</table>
+| MODULE | STATUS |
+|---------|--------|
+| ☕ Java | 🟢 ONLINE |
+| 🐍 Python | 🟢 ONLINE |
+| 🌐 Web Development | 🟢 ONLINE |
+| 🤖 Artificial Intelligence | 🟡 LEARNING |
+| ⛓ Blockchain | 🟡 LEARNING |
+| 📚 Data Structures & Algorithms | 🟢 ACTIVE |
 
 ---
 
-# 💻 Developer Terminal
+# 🚀 PROJECT DATABASE
+
+| PROJECT | DESCRIPTION | STATUS |
+|---------|-------------|--------|
+| 🌐 Portfolio | Personal Portfolio Website | ✅ LIVE |
+| 🤖 Personal Doctor | AI Health Assistant | 🚀 ACTIVE |
+| ☕ Java Projects | OOP • DSA • Collections | ⚡ ACTIVE |
+| 🛰 AI Projects | Learning & Building | 🔄 DEVELOPMENT |
+
+---
+
+# 💻 DEVELOPER TERMINAL
 
 ```bash
+> boot
+
+Initializing...
+
+Loading Java...
+
+Loading Python...
+
+Loading AI...
+
+Loading Blockchain...
+
+Boot Successful ✔
+
 > whoami
 
 Ayush Singh
 
 > education
 
-B.Tech Computer Science
-
-> languages
-
-Java
-Python
-JavaScript
-
-> hobbies
-
-Building Projects
-Learning
-Problem Solving
+Bachelor of Technology
+Computer Science Engineering
 
 > current_goal
 
-Software Engineering Internship 🚀
+Software Engineering Internship
+
+> status
+
+Building...
+Learning...
+Growing...
 ```
 
 ---
 
-# 📅 Current Focus
+# 📡 LIVE DEVELOPMENT STATUS
 
-```
-█████████░░░ Java
+```text
+JAVA              ██████████ 100%
 
-███████░░░░ Spring Boot
+PYTHON            █████████░ 90%
 
-██████░░░░░ DSA
+JAVASCRIPT        ████████░░ 80%
 
-█████░░░░░░ AI
+SPRING BOOT       ██████░░░░ 60%
 
-████░░░░░░░ Blockchain
+AI                █████░░░░░ 50%
+
+BLOCKCHAIN        ████░░░░░░ 40%
 ```
 
 ---
 
-# 📈 GitHub Activity
+# 🎯 CURRENT MISSION
+
+```text
+✔ Solve DSA Every Day
+
+✔ Build Real World Projects
+
+✔ Learn Spring Boot
+
+✔ Explore Artificial Intelligence
+
+✔ Explore Blockchain
+
+✔ Contribute to Open Source
+```
+
+---
+
+# 🌌 SYSTEM DASHBOARD
+
+| ATTRIBUTE | LEVEL |
+|-----------|-------|
+| 🚀 Innovation | ██████████ |
+| 💡 Creativity | █████████░ |
+| 📚 Learning | ██████████ |
+| ☕ Coffee | ██████████ |
+| 🎯 Focus | █████████░ |
+
+---
+
+# 📈 DEVELOPMENT ACTIVITY
 
 <p align="center">
 
@@ -176,7 +178,7 @@ Software Engineering Internship 🚀
 
 ---
 
-# 💬 Quote of the Day
+# 💬 AI MESSAGE
 
 <p align="center">
 
@@ -186,41 +188,11 @@ Software Engineering Internship 🚀
 
 ---
 
-# 🌱 Currently Learning
-
-- ☕ Advanced Java
-
-- 🌐 Spring Boot
-
-- 🗄 SQL
-
-- 🤖 Artificial Intelligence
-
-- ⛓ Blockchain
-
-- 📦 REST APIs
-
----
-
-# 🎯 Goals for 2026
-
-✅ 300+ DSA Problems
-
-✅ Spring Boot Mastery
-
-✅ 10 Full Stack Projects
-
-✅ Software Engineering Internship
-
-✅ Open Source Contribution
-
----
-
-# 📫 Connect With Me
+# 🌍 CONNECT
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/ayush-singh-7872a5236/">
+<a href="https://www.linkedin.com/in/ayush-singh-7872a5236">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -238,8 +210,16 @@ Software Engineering Internship 🚀
 
 <div align="center">
 
-## ⚡ "Code. Learn. Build. Repeat."
+## ⚡ SYSTEM STATUS
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
+```
+SYSTEM ONLINE
+
+NO ERRORS DETECTED
+
+READY TO BUILD THE FUTURE 🚀
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:001F54,50:007CF0,100:00F5FF"/>
 
 </div>

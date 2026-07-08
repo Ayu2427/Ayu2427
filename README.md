@@ -1,121 +1,129 @@
-# <div align="center">⚡ AYUSH OS // SOFTWARE ENGINEER DASHBOARD ⚡</div>
+# <div align="center">👨‍💻 Ayush Singh</div>
 
 <div align="center">
 
-### `SYSTEM STATUS : ONLINE 🟢`
+### Software Engineer in Progress • Java Developer • AI Explorer
 
-**Computer Science Engineering Student • Java Developer • AI Explorer**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile;Building+Real+World+Projects;Java+Developer;AI+%7C+Blockchain+Explorer;Always+Learning+Something+New"/>
 
 </div>
 
 ---
 
-<table>
-<tr>
+# ⚡ Quick Navigation
 
-<td width="50%">
-
-## 🧑‍💻 Profile
-
-```yaml
-Name: Ayush Singh
-
-Role: Software Engineer
-
-Education:
-B.Tech CSE
-
-Location:
-India
-
-Status:
-Open to Internships
-```
-
-</td>
-
-<td width="50%">
-
-## 🚀 Current Focus
-
-```text
-✓ Java
-
-✓ Spring Boot
-
-✓ DSA
-
-✓ AI
-
-✓ Blockchain
-```
-
-</td>
-
-</tr>
-</table>
+* [🧑 About Me](#-about-me)
+* [🛠 Tech Stack](#-tech-stack)
+* [🚀 Projects](#-project-vault)
+* [📊 Skill Dashboard](#-skill-dashboard)
+* [🎯 Current Goals](#-current-goals)
+* [📈 GitHub Activity](#-github-activity)
+* [🏅 Certifications](#-certifications)
+* [📬 Contact](#-connect-with-me)
 
 ---
 
-## ⚡ Tech Stack
+# 🧑 About Me
+
+<details open>
+
+<summary><b>👋 Click to View</b></summary>
+
+```java
+public class Ayush {
+
+    String role = "Computer Science Engineering Student";
+
+    String passion = "Building Real World Applications";
+
+    String currentFocus = "Java + Spring Boot + AI";
+
+    String goal = "Software Engineer";
+
+}
+```
+
+</details>
+
+---
+
+# 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,tailwind,git,github,vscode&perline=5"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,tailwind,git,github,vscode,linux&perline=5"/>
 
 </div>
 
 ---
 
-## 📂 Project Vault
+# 🚀 Project Vault
 
-<details>
+<details open>
+
 <summary><b>🌐 Portfolio Website</b></summary>
+
+### Features
 
 * Responsive Design
 * Modern UI
 * Personal Branding
-* HTML, CSS, JavaScript
+
+**Tech**
+
+HTML • CSS • JavaScript
 
 </details>
 
 <details>
+
 <summary><b>🤖 Personal Doctor AI</b></summary>
 
-* AI-based Assistant
-* Python
+### Features
+
+* AI Based Assistant
 * Health Guidance
-* Learning Project
+* Smart Responses
+
+**Tech**
+
+Python • AI
 
 </details>
 
 <details>
+
 <summary><b>☕ Java Projects</b></summary>
+
+### Topics Covered
 
 * OOP
 * Collections
+* Exception Handling
 * File Handling
-* Mini Applications
 
 </details>
 
 ---
 
-## 📊 Skill Matrix
+# 📊 Skill Dashboard
 
-| Technology |    Level   |
-| ---------- | :--------: |
-| Java       | ██████████ |
-| Python     |  █████████ |
-| JavaScript |  ████████  |
-| HTML/CSS   |  █████████ |
-| Git        |  ████████  |
-| AI         |   ██████   |
-| Blockchain |    █████   |
+| Skill              |  Progress  |
+| :----------------- | :--------: |
+| ☕ Java             | ██████████ |
+| 🐍 Python          |  █████████ |
+| 🌐 Web Development |  █████████ |
+| 📚 DSA             |  ████████  |
+| 🤖 AI              |   ██████   |
+| ⛓ Blockchain       |    █████   |
 
 ---
 
-## 🖥 Developer Console
+# 💻 Developer Console
+
+<details>
+
+<summary><b>Open Terminal</b></summary>
 
 ```bash
 > whoami
@@ -124,95 +132,122 @@ Ayush Singh
 
 > education
 
-Bachelor of Technology
+B.Tech Computer Science Engineering
+
+> currently_learning
+
+Spring Boot
+Artificial Intelligence
+Blockchain
 
 > current_project
 
 Personal Doctor AI
 
-> learning
-
-Spring Boot
-AI
-Blockchain
-
-> status
-
-Building...
-Learning...
-Growing...
-
-> next_goal
+> target
 
 Software Engineering Internship
 ```
 
----
-
-## 🎯 Mission Board
-
-* 🚀 Build Production-Level Projects
-* 📚 Solve DSA Daily
-* ☕ Master Java
-* 🌱 Learn Spring Boot
-* 🤖 Build AI Applications
-* 🌍 Contribute to Open Source
+</details>
 
 ---
 
-## 📅 Progress Tracker
+# 🎯 Current Goals
+
+* ✅ Master Java
+* 🚧 Learn Spring Boot
+* 🚧 Build Production-Level Projects
+* 🚧 Solve 500+ DSA Problems
+* 🚧 Contribute to Open Source
+* 🚧 Secure a Software Engineering Internship
+
+---
+
+# 🗺 Learning Roadmap
+
+<details>
+
+<summary><b>View Roadmap</b></summary>
 
 ```text
-Java              ██████████
-
-DSA               █████████
-
-Spring Boot       ███████
-
-Backend           ███████
-
-AI                █████
-
-Blockchain        ████
+Java
+   │
+   ▼
+Data Structures
+   │
+   ▼
+Spring Boot
+   │
+   ▼
+Backend APIs
+   │
+   ▼
+System Design
+   │
+   ▼
+Software Engineer
 ```
 
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayu2427&theme=github-dark&hide_border=true"/>
-
-</p>
+</details>
 
 ---
 
-## 🏆 Developer Philosophy
+# 🏅 Certifications
 
-```java
-while(true){
+<details>
 
-    Learn();
+<summary><b>View Certifications</b></summary>
 
-    Build();
+* IBM Certification
+* Oracle Java *(Add when earned)*
+* HackerRank *(Add when earned)*
+* Google *(Add when earned)*
 
-    Fail();
-
-    Improve();
-
-    Repeat();
-
-}
-```
+</details>
 
 ---
 
-## 🌐 Connect
+# 📈 GitHub Activity
 
 <div align="center">
 
-<a href="https://github.com/Ayu2427">GitHub</a> • <a href="https://www.linkedin.com/in/ayush-singh-7872a5236/">LinkedIn</a> • <a href="mailto:Ayu.rajput0123@gmail.com">Email</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayu2427&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 📌 Fun Facts
+
+<details>
+
+<summary><b>Click to Reveal</b></summary>
+
+* ☕ Coffee makes debugging easier.
+* 💡 I enjoy solving real-world problems through code.
+* 🚀 I believe consistency beats motivation.
+* 📚 Every day is a chance to learn something new.
+
+</details>
+
+---
+
+# 📬 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Ayu2427">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ayush-singh-7872a5236/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:Ayu.rajput0123@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -220,6 +255,8 @@ while(true){
 
 <div align="center">
 
-### ⚡ *"Turning ideas into software, one commit at a time."*
+### ⭐ Thanks for visiting my profile!
+
+*"Code with purpose. Learn continuously. Build fearlessly."*
 
 </div>

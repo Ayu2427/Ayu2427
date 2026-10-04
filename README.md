@@ -231,7 +231,7 @@ Cloud / Cybersecurity Engineer
 
 <div align="center">
 
-<a href="https://github.com/Ayu2427"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayu2427&hide_border=true&bg_color=00000000&color=38BDF8&line=38BDF8&point=22C55E&area=true&area_color=38BDF8&custom_title=Ayush%27s%20GitHub%20Activity" alt="Ayush Singh GitHub Activity Graph" /></a>
+[![Ayush Singh GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayu2427&theme=github-compact&hide_border=true)](https://github.com/Ayu2427)
 
 </div>
 

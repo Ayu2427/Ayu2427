@@ -265,6 +265,4 @@ Cloud / Cybersecurity Engineer
 
 **Cloud by design. Security by default. Code with purpose.**
 
-<img src="https://komarev.com/ghpvc/?username=Ayu2427&label=Profile%20Views&style=flat-square" alt="Profile Views" />
-
 </div>

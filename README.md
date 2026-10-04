@@ -231,7 +231,7 @@ Cloud / Cybersecurity Engineer
 
 <div align="center">
 
-[![Ayush Singh GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayu2427&theme=github-compact&hide_border=true)](https://github.com/Ayu2427)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayu2427&theme=github-compact&hide_border=true" alt="Ayush Singh GitHub Activity" width="100%"/>
 
 </div>
 
@@ -275,6 +275,6 @@ Cloud / Cybersecurity Engineer
 
 **Cloud by design. Security by default. Code with purpose.**
 
-<img src="https://komarev.com/ghpvc/?username=Ayu2427&label=PROFILE+VIEWS&color=38BDF8&style=flat-square" alt="GitHub Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Ayu2427&label=Profile%20Views&style=flat-square" alt="Profile Views" />
 
 </div>

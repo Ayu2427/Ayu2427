@@ -227,16 +227,6 @@ Cloud / Cybersecurity Engineer
 
 ---
 
-## 📌 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayu2427&theme=github-compact&hide_border=true" alt="Ayush Singh GitHub Activity" width="100%"/>
-
-</div>
-
----
-
 ## 🎯 2026–27 Goals
 
 - [x] Build production-oriented full-stack projects

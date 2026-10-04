@@ -1,252 +1,268 @@
-# <div align="center">👨‍💻 Ayush Singh</div>
-
 <div align="center">
 
-### Software Engineer in Progress • Java Developer • AI Explorer
+# 👋 Hi, I'm Ayush Singh
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile;Building+Real+World+Projects;Java+Developer;AI+%7C+Blockchain+Explorer;Always+Learning+Something+New"/>
+### ☁️ Cloud & Cybersecurity Enthusiast • Software Engineering Student • Builder
+
+<p>
+  <a href="https://github.com/Ayu2427">
+    <img src="https://img.shields.io/badge/GitHub-Ayu2427-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/ayush-singh-7872a5236/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ayush%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:Ayu.rajput0123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Cloud+%7C+Cybersecurity+%7C+DevOps;Building+Secure+and+Scalable+Systems;AWS+%7C+Linux+%7C+Docker+%7C+CI%2FCD;TypeScript+%7C+Python+%7C+Java;Security-first+engineering+mindset" />
 
 </div>
 
 ---
 
-# ⚡ Quick Navigation
+## 🧭 About Me
 
-* [🧑 About Me](#-about-me)
-* [🛠 Tech Stack](#-tech-stack)
-* [🚀 Projects](#-project-vault)
-* [📊 Skill Dashboard](#-skill-dashboard)
-* [🎯 Current Goals](#-current-goals)
-* [📈 GitHub Activity](#-github-activity)
-* [🏅 Certifications](#-certifications)
-* [📬 Contact](#-connect-with-me)
+I'm **Ayush Singh**, a B.Tech Computer Science & Engineering student at **Babu Banarasi Das University, Lucknow**, graduating in **2027**.
 
----
+I enjoy turning ideas into practical software and have recently focused my career direction on **Cloud Engineering, Cybersecurity and DevSecOps**.
 
-# 🧑 About Me
+- 🎓 B.Tech CSE — BBDU, Lucknow
+- ☁️ Current focus — **AWS, Linux, Networking, Cloud Security & DevOps**
+- 🔐 Security interests — **Web Security, Vulnerability Assessment, Secure APIs & Application Security**
+- 🧑‍💻 Development — **Python, Java, JavaScript, TypeScript, React, Node.js**
+- 🛠️ Engineering — **Git, GitHub Actions, Docker, Kubernetes, CI/CD**
+- 🚀 I like building projects that solve real problems rather than just following tutorials
+- 🎯 Career goal — **Cloud / Cybersecurity Engineer**
 
-<details open>
-
-<summary><b>👋 Click to View</b></summary>
-
-```java
-public class Ayush {
-
-    String role = "Computer Science Engineering Student";
-
-    String passion = "Building Real World Applications";
-
-    String currentFocus = "Java + Spring Boot + AI";
-
-    String goal = "Software Engineer";
-
-}
-```
-
-</details>
+> **Build it. Secure it. Deploy it. Improve it.**
 
 ---
 
-# 🛠 Tech Stack
+## ⚡ What I'm Working With
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,tailwind,git,github,vscode,linux&perline=5"/>
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,githubactions,git" />
+
+### 🔐 Security & Backend
+<img src="https://skillicons.dev/icons?i=python,nodejs,express,mongodb,postgres,nginx" />
+
+### 💻 Development
+<img src="https://skillicons.dev/icons?i=java,typescript,javascript,react,tailwind,vite" />
 
 </div>
 
 ---
 
-# 🚀 Project Vault
+## 🚀 Featured Projects
 
-<details open>
+### 🛡️ Sentinel — Reputation Intelligence Platform
+**A security-focused platform for checking suspicious UPI IDs and scam-related reputation intelligence before interacting with them.**
 
-<summary><b>🌐 Portfolio Website</b></summary>
+**Highlights**
+- 🔎 Reputation & scam lookup workflows
+- 💳 UPI verification
+- 👥 Community fraud intelligence
+- 🔐 Authentication, authorization and protected flows
+- 🧱 Input validation, rate limiting and security middleware
+- 📝 Structured logging and API documentation
+- 🔄 Refresh-token rotation and session revocation
+- ⚙️ CI validation for production builds
 
-### Features
+**Stack:** TypeScript • React • Node.js • Express • MongoDB • JWT • Zod • Pino • Cloudinary • AWS S3 • GitHub Actions
 
-* Responsive Design
-* Modern UI
-* Personal Branding
-
-**Tech**
-
-HTML • CSS • JavaScript
-
-</details>
-
-<details>
-
-<summary><b>🤖 Personal Doctor AI</b></summary>
-
-### Features
-
-* AI Based Assistant
-* Health Guidance
-* Smart Responses
-
-**Tech**
-
-Python • AI
-
-</details>
-
-<details>
-
-<summary><b>☕ Java Projects</b></summary>
-
-### Topics Covered
-
-* OOP
-* Collections
-* Exception Handling
-* File Handling
-
-</details>
+**Repositories:**  
+[Frontend](https://github.com/Ayu2427/Sentinel-Frontend) • [Backend](https://github.com/Ayu2427/sentinel-Backend)
 
 ---
 
-# 📊 Skill Dashboard
+### 🛒 E-Shop Suite
+**Full-stack e-commerce application designed around a modern Indian shopping experience.**
 
-| Skill              |  Progress  |
-| :----------------- | :--------: |
-| ☕ Java             | ██████████ |
-| 🐍 Python          |  █████████ |
-| 🌐 Web Development |  █████████ |
-| 📚 DSA             |  ████████  |
-| 🤖 AI              |   ██████   |
-| ⛓ Blockchain       |    █████   |
+- 🛍️ Product catalogue, search, cart & wishlist
+- 🔑 Authentication and checkout flows
+- 📊 Admin dashboard & analytics
+- 🇮🇳 INR localisation
+- 🧾 GST-ready invoice workflows
 
----
+**Stack:** React 19 • TypeScript • TanStack Start • Vite • Tailwind CSS • shadcn/ui • PostgreSQL
 
-# 💻 Developer Console
-
-<details>
-
-<summary><b>Open Terminal</b></summary>
-
-```bash
-> whoami
-
-Ayush Singh
-
-> education
-
-B.Tech Computer Science Engineering
-
-> currently_learning
-
-Spring Boot
-Artificial Intelligence
-Blockchain
-
-> current_project
-
-Personal Doctor AI
-
-> target
-
-Software Engineering Internship
-```
-
-</details>
+[View Repository →](https://github.com/Ayu2427/eshop-suite)
 
 ---
 
-# 🎯 Current Goals
+### 🗳️ Voting DApp
+**Blockchain-based decentralized voting system with wallet integration and token-based functionality.**
 
-* ✅ Master Java
-* 🚧 Learn Spring Boot
-* 🚧 Build Production-Level Projects
-* 🚧 Solve 500+ DSA Problems
-* 🚧 Contribute to Open Source
-* 🚧 Secure a Software Engineering Internship
+- 🦊 MetaMask wallet connection
+- ⛓️ Blockchain voting workflows
+- 👤 Voter & candidate registration
+- 🏛️ Election administration
+- 🪙 ERC-20 token marketplace
+- 📈 Voting results
+
+**Stack:** Solidity • React • Vite • Ethers.js • MetaMask • Tailwind CSS • Hardhat • Ganache
+
+[Frontend Repository →](https://github.com/Ayu2427/minor-voting-frontend-main)
 
 ---
 
-# 🗺 Learning Roadmap
+### 🔍 Basic Vulnerability Scanner
+**Educational cybersecurity tooling for identifying common web security issues in authorized environments.**
 
-<details>
+- 🌐 Target URL scanning
+- 🔎 Basic security checks
+- 📋 Structured findings
+- 🧪 Local security-testing workflow
 
-<summary><b>View Roadmap</b></summary>
+Also part of my **INCODEVISION cybersecurity task series**, alongside a password-strength checker and secure login system.
+
+[Cybersecurity Tasks →](https://github.com/Ayu2427/INCODEVISION_TASK)
+
+---
+
+### 👁️ Third Eye for Blind Person
+**IoT-based assistive navigation prototype for real-time obstacle detection.**
+
+- 📡 HC-SR04 ultrasonic sensing
+- 🚦 Distance-based safety zones
+- 🔊 Audio alerts
+- 📳 Haptic feedback
+- 💡 Visual status indication
+
+**Stack:** Arduino • Embedded C/C++ • IoT • Sensor Integration
+
+[View Repository →](https://github.com/Ayu2427/Third-Eye-for-Blind-Person)
+
+---
+
+## 🧰 Technical Arsenal
+
+| Area | Technologies |
+|---|---|
+| ☁️ Cloud | AWS, IAM, VPC, EC2, S3, Lambda |
+| 🔐 Cybersecurity | Vulnerability Assessment, Secure Authentication, API Security, Security Testing |
+| 🐧 Systems | Linux, Shell, Networking Fundamentals |
+| 🚀 DevOps | Git, GitHub Actions, Docker, Kubernetes, CI/CD |
+| 💻 Languages | Python, Java, JavaScript, TypeScript, C/C++, Solidity |
+| 🌐 Web | React, Node.js, Express, HTML, CSS, Tailwind CSS, Vite |
+| 🗄️ Databases | MongoDB, PostgreSQL, MySQL |
+| ⛓️ Blockchain | Solidity, Ethereum, Hardhat, Ganache, Ethers.js, MetaMask |
+| 📊 Data & AI | Python, Pandas, NumPy, Scikit-learn, Power BI, SQL |
+| 🛠️ Tools | VS Code, GitHub, Postman, NPM |
+
+---
+
+## 🏗️ My Engineering Mindset
 
 ```text
-Java
-   │
-   ▼
-Data Structures
-   │
-   ▼
-Spring Boot
-   │
-   ▼
-Backend APIs
-   │
-   ▼
-System Design
-   │
-   ▼
-Software Engineer
+                    ┌─────────────────────┐
+                    │      PROBLEM        │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │      BUILD          │
+                    │  Code • API • App   │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │      SECURE         │
+                    │ Auth • Validation   │
+                    │ Rate Limits • Logs  │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │      DEPLOY         │
+                    │ Cloud • CI/CD       │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │      IMPROVE        │
+                    │ Monitor • Learn     │
+                    └─────────────────────┘
 ```
 
-</details>
+---
+
+## ☁️ Current Learning Path
+
+```
+AWS & Cloud Fundamentals
+        ↓
+Linux + Networking
+        ↓
+Docker + Kubernetes
+        ↓
+CI/CD + DevSecOps
+        ↓
+Cloud Security
+        ↓
+Security Automation
+        ↓
+Cloud / Cybersecurity Engineer
+```
 
 ---
 
-# 🏅 Certifications
-
-<details>
-
-<summary><b>View Certifications</b></summary>
-
-* IBM Certification
-* Oracle Java *(Add when earned)*
-* HackerRank *(Add when earned)*
-* Google *(Add when earned)*
-
-</details>
-
----
-
-# 📈 GitHub Activity
+## 📊 GitHub Snapshot
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayu2427&theme=github-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayu2427&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayu2427&layout=compact&hide_border=true&langs_count=8&theme=transparent" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayu2427&hide_border=true&theme=transparent" />
 
 </div>
 
 ---
 
-# 📌 Fun Facts
+## 📌 GitHub Activity
 
-<details>
+<div align="center">
 
-<summary><b>Click to Reveal</b></summary>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayu2427&hide_border=true&bg_color=00000000&line=38BDF8&point=22C55E&area=true&area_color=38BDF8" />
 
-* ☕ Coffee makes debugging easier.
-* 💡 I enjoy solving real-world problems through code.
-* 🚀 I believe consistency beats motivation.
-* 📚 Every day is a chance to learn something new.
-
-</details>
+</div>
 
 ---
 
-# 📬 Connect With Me
+## 🎯 2026–27 Goals
+
+- [x] Build production-oriented full-stack projects
+- [x] Complete AWS Cloud internship & training
+- [x] Build cybersecurity-focused projects
+- [x] Practice Git & GitHub workflows
+- [ ] Deepen AWS architecture & cloud security
+- [ ] Strengthen Linux & networking
+- [ ] Build real DevSecOps pipelines
+- [ ] Contribute to open source
+- [ ] Secure a Cloud / Cybersecurity internship or entry-level role
+
+---
+
+## 🌐 Find Me Online
 
 <div align="center">
 
 <a href="https://github.com/Ayu2427">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <a href="https://www.linkedin.com/in/ayush-singh-7872a5236/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="mailto:Ayu.rajput0123@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -255,8 +271,10 @@ Software Engineer
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 💙 Thanks for visiting
 
-*"Code with purpose. Learn continuously. Build fearlessly."*
+**Cloud by design. Security by default. Code with purpose.**
+
+<img src="https://komarev.com/ghpvc/?username=Ayu2427&label=Profile%20Views&color=38BDF8&style=flat" />
 
 </div>
